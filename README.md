@@ -57,8 +57,8 @@ Simply open `index.html` in your favorite browser.
 
 ## 🛠️ Tech Stack
 
--   **HTML5** -- Structure\
--   **CSS3** -- Styling, Glow Effects, Animations\
+-   **HTML** -- Structure\
+-   **CSS** -- Styling, Glow Effects, Animations\
 -   **JavaScript (Vanilla)** -- Slider functionality\
 -   **FontAwesome** -- Icons
 
@@ -73,3 +73,4 @@ Simply open `index.html` in your favorite browser.
 
 This project is licensed under the **MIT License** -- free to use and
 modify.
+
